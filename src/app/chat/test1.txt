@@ -1,0 +1,8 @@
+<div className="p-3 mt-4 bg-gray-200 rounded-xl mx-5 py-72">
+        <div className="flex place-items-end  absolute bottom-40">
+            <img src="/add_circle.png" alt="Your Image" className="ml-1 absolute mb-0.5"  width={25}/>
+            <input role="tab-panel" type="text" placeholder="Aa" required
+                className="text-left text-black p-1 bg-white rounded-xl ml-10 pr-14 " />
+            <img src="/mic.png" alt="mic" width={30} className="ml-1"/>
+        </div>
+</div>
